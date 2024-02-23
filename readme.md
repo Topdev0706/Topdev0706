@@ -56,9 +56,9 @@
 
 ## 📈 Stats
 
-![Top_DEV's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"])
+![Top_DEV's github stats](https://github-readme-stats.vercel.app/api?username=Topdev0706&hide=["issues"])
 
-![Top_DEV's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
+![Top_DEV's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Topdev0706&theme=buefy&layout=compact&langs_count=10)
 
 ----
 Credit: [Top_DEV](https://github.com/Top_DEV)
