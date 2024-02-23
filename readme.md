@@ -15,9 +15,9 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmesh16&label=Profile%20views&color=0e75b6&style=flat" alt="Topdev" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/-Prathmesh%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)](https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/)
-[![Gmail Badge](https://img.shields.io/badge/-prajadhav1243@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajadhav1243@gmail.com)](mailto:prajadhav1243@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@Prathmesh_J29-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Prathmesh_J29)](https://twitter.com/Prathmesh_J29)
+[![LinkedIn](https://img.shields.io/badge/-Top_DEV%20Jadhav-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Top_DEV-4933ab172/)](https://www.linkedin.com/in/Top_DEV-4933ab172/)
+[![Gmail Badge](https://img.shields.io/badge/-Top_DEV243@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Top_DEV1243@gmail.com)](mailto:prajadhav1243@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Top_DEV_J29-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Top_DEV_J29)](https://twitter.com/Top_DEV_J29)
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -61,9 +61,9 @@
 ![Top_DEV's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Top_DEV&theme=buefy&layout=compact&langs_count=10)
 
 ----
-Credit: [Top_DEV](https://github.com/prathmesh16)
+Credit: [Top_DEV](https://github.com/Top_DEV)
 
-Last Edited on: 27/05/2021
+Last Edited on: 27/05/2018
 
 
 <!--
