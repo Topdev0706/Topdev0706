@@ -58,7 +58,7 @@
 
 ![Top_DEV's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
 
-![Top_DEV's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Top_DEV&theme=buefy&layout=compact&langs_count=10)
+![Top_DEV's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
 
 ----
 Credit: [Top_DEV](https://github.com/Top_DEV)
